@@ -1,0 +1,20 @@
+{
+    "IP_NO": "IP0001",
+    "Name": "Suresh",
+    "Age": 32,
+    "Gender": "Male",
+    "Mode_of_Arrival": "Ambulance",
+    "Reason_for_Arrival": "Accident",
+    "Chief_complaints": ["Head_injury","Blood_loss","Faint"],
+    "Vital": {
+    "bp": "130/90",
+    "pr": "82",
+    "rr": "20"
+    },
+    "Past_history": "Hypertension",
+    "Present_history": "Bike_accident",
+    "Family_history": null,
+    "Daignosis": "Leg_injury",
+    "Admission_date": "2026-01-25",
+    "Discharge_date": "2026-02-04"
+}
